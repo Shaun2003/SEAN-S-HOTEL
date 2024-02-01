@@ -22,5 +22,5 @@ This is the page which has the booking faciltiy of the hotel. The form contains 
 This page can be used to contact the hotel by filling a simple form. It also serves purpose of providing the location of hotel in google maps. The location of hotel and zoom levels of the map can be easily modified.
 
 
-# Here's the link to the project: 
+# Here's the link to the project: https://shaun2003.github.io/SEAN-S-HOTEL/
 
