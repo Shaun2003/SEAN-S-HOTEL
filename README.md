@@ -24,3 +24,7 @@ This page can be used to contact the hotel by filling a simple form. It also ser
 
 # Here's the link to the project: https://shaun2003.github.io/SEAN-S-HOTEL/
 
+
+![hotel](https://github.com/Shaun2003/SEAN-S-HOTEL/assets/122936635/2820c12c-66ba-46b0-9ec2-b7513e6ed2c0)
+
+
